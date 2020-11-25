@@ -2,4 +2,5 @@
 const pets= ["Milo", "Otis", "Garfield"];
 const append=[...pets,"Odie"];
 const prepend=["Odie",...pets];
-const removeLast= pets.pop();
+pets.removeLast();
+
