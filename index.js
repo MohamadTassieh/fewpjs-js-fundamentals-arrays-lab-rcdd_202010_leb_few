@@ -8,5 +8,3 @@ removeLast.pop();
 
 const removeFirst=pets;
 removeFirst.shift();
-
-
