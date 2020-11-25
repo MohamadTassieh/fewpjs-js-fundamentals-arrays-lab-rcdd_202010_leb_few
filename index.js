@@ -1,2 +1,3 @@
 // Write your solution here!
-pets.append(...Odie);
+const pets= ["Milo", "Otis", "Garfield"];
+const append=[...pets,"Odie"];
